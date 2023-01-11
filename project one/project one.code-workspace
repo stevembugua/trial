@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../react router max"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project one"
+	}
+}
